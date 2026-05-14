@@ -35,10 +35,6 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
       CurvedAnimation(parent: _controller, curve: const Interval(0.0, 0.5, curve: Curves.easeIn)),
     );
 
-    _blurAnimation = Tween<double>(begin: 10.0, end: 0.0).animate(
-      CurvedAnimation(parent: _controller, curve: const Interval(0.0, 0.6, curve: Curves.easeOut)),
-    );
-
     _controller.forward();
 
     Future.delayed(const Duration(milliseconds: 3200), () {
