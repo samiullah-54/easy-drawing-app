@@ -15,6 +15,20 @@ The purpose of Easy Drawing is to provide a fast, beautiful, and distraction-fre
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/Splash%20screen.jpeg" width="250" />
+  <img src="assets/screenshots/Menu.jpeg" width="250" />
+  <img src="assets/screenshots/Create%20class.jpeg" width="250" />
+  <img src="assets/screenshots/Drawing%20Canvas.jpeg" width="250" />
+  <img src="assets/screenshots/Tools.jpeg" width="250" />
+  <img src="assets/screenshots/shapes.jpeg" width="250" />
+  <img src="assets/screenshots/Casting.jpeg" width="250" />
+</p>
+
+---
+
 ## Use Case Flow
 
 1.  **Launch & Gallery:** Upon opening the app, you are greeted by an elegant splash screen that seamlessly transitions into the main Gallery.
